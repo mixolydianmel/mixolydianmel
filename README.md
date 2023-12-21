@@ -1,4 +1,4 @@
-# Caden Henrich
+# Melody Henrich
 > 🎮 That's me!
 
 ## About Me
