@@ -3,7 +3,7 @@
 
 ## About Me
 I am a student at Northeastern University in Boston, MA. I code games and other things for fun, and I endlessly tweak my workflow/environment so that it's more efficient.
-I'm using Neovim on Alacritty on Hyprland on NixOS.
+I'm using Helix on Foot on Niri on NixOS.
 
 ## Highlights
 - 🌲 [Linktree](https://linktr.ee/mixolydianmel)
