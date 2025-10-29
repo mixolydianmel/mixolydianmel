@@ -6,6 +6,7 @@ I am a student at Northeastern University in Boston, MA. I code games and other 
 I'm using Helix on Foot on Niri on NixOS.
 
 ## Highlights
+- 🪀 [ShaderToy](https://www.shadertoy.com/user/medley)
 - 🌲 [Linktree](https://linktr.ee/mixolydianmel)
 - 💡 [itch.io](https://mixolydianmel.itch.io/)
 - 🧮 [Enigma](https://github.com/mixolydianmel/enigma)
